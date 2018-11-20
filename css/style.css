@@ -1,0 +1,23 @@
+/* General styles */
+body {
+  margin: 0;
+  padding: 0;
+}
+/* Header */
+nav {
+  position: fixed;
+  width: 100%;
+  /*background: black;*/
+}
+.main-banner {
+  display: block;
+  width: 100%;
+}
+.logo {
+  font-family: "Monoton", cursive;
+  color: black;
+  font-size: 26px;
+  line-height: 60px;
+  text-align: center;
+  text-decoration: none;
+}
